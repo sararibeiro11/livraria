@@ -15,8 +15,16 @@
     font-size: 24px;
 }
 .livraria-imagem{
-    width:10%;
+    width: 30%;
 }
 .livraria{
     background-image: linear-gradient(#FFFFFF,#FFFFFF) ;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.livraria-conteudo{
+    width: 60%
 }
